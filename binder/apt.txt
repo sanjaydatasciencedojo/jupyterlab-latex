@@ -10,3 +10,4 @@ libgtk-3-0
 libnss3
 libxss1
 pandoc
+texlive-fontsrecommended
