@@ -1,7 +1,7 @@
 # JupyterLab LaTeX
 
 [binder-badge]: https://mybinder.org/badge_logo.svg
-[binder-latest]: https://mybinder.org/v2/gh/jupyterlab/jupyterlab-latex.git/master?urlpath=lab/tree/sample.tex
+[binder-latest]: https://mybinder.org/v2/gh/sanjaydatasciencedojo/jupyterlab-latex.git/master?urlpath=lab/tree/sample.tex
 [ci-badge]: https://github.com/jupyterlab/jupyterlab-latex/actions/workflows/build.yml/badge.svg
 [ci]: https://github.com/jupyterlab/jupyterlab-latex/actions/workflows/build.yml?query=branch/master
 [npm-version-badge]: https://img.shields.io/npm/v/@jupyterlab/latex.svg
